@@ -5,10 +5,6 @@
 #include <ctype.h>
 
 /*
-Name: Can
-Surname: Gök
-Student Number: 150118014
-
 Program Definition: A program for searching the keyword the user entered from the 42 content files.
 
 The program uses the frequency for finding the best articles/websites etc. for user.
